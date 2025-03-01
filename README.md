@@ -51,25 +51,13 @@ Each program checks for errors such as missing arguments, invalid file paths, or
 
 ## Repository Structure
 ```
-/your-repo-name
+/Linux
 │── pwd.c
 │── echo.c
 │── cp.c
 │── mv.c
 │── README.md
 ```
-
-## Uploading to GitHub
-1. Initialize a Git repository:
-   ```sh
-   git init
-   git add .
-   git commit -m "Initial commit with Unix utilities"
-   git branch -M main
-   git remote add origin <your_repo_url>
-   git push -u origin main
-   ```
-2. **Important:** Do not upload object files or executables.
 
 ## Contribution
 Feel free to fork this repository and improve the utilities!
