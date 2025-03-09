@@ -51,7 +51,7 @@ Each program checks for errors such as missing arguments, invalid file paths, or
 
 ## Repository Structure
 ```
-/Linux
+/Unix Utilities Implementation
 │── pwd.c
 │── echo.c
 │── cp.c
